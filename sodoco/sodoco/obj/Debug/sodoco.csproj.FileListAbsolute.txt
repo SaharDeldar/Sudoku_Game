@@ -1,0 +1,10 @@
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\bin\Debug\sodoco.exe.config
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\bin\Debug\sodoco.exe
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\bin\Debug\sodoco.pdb
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\obj\Debug\sodoco.csprojResolveAssemblyReference.cache
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\obj\Debug\sodoco.Form1.resources
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\obj\Debug\sodoco.Properties.Resources.resources
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\obj\Debug\sodoco.csproj.GenerateResource.Cache
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\obj\Debug\sodoco.csproj.CoreCompileInputs.cache
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\obj\Debug\sodoco.exe
+C:\Users\miss. sahar\Desktop\sudoko\sodoco\sodoco\obj\Debug\sodoco.pdb
